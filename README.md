@@ -1,16 +1,27 @@
-# React + Vite
+# 📝 Markdown Previewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal and responsive **Markdown Previewer** built with **React** and **Vite** by [Washiy-Codes](https://github.com/Washiy-Codes).  
+Type Markdown on one side and instantly preview the formatted output on the other — fast, smooth, and beginner-friendly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+🔗 [View Live on GitHub Pages](https://Washiy-Codes.github.io/markdown-previewer)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ Built With
+- ⚛️ **React** – Frontend library for building the UI  
+- ⚡ **Vite** – Lightning-fast development and build tool  
+- 🧾 **React Markdown** – Converts Markdown text to formatted HTML  
+- ✍️ **Remark GFM** – Supports GitHub-flavored Markdown (tables, checkboxes, links, etc.)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Features
+- Live Markdown editing and preview  
+- Clean and responsive layout  
+- Supports GitHub-flavored Markdown  
+- Simple, lightweight, and easy to extend  
+
+---
