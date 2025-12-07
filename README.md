@@ -6,7 +6,7 @@ Type Markdown on one side and instantly preview the formatted output on the othe
 ---
 
 ## 🚀 Live Demo
-🔗 [View Live on GitHub Pages](https://Washiy-Codes.github.io/markdown-previewer)
+🔗 [View Live on GitHub Pages]( https://washiy-codes.github.io/Markdown-Previewer/)
 
 ---
 
