@@ -57,7 +57,7 @@ const handleChange = (e) => {
 }
 
   return (
-    <div className='App'>
+    <div className='app'>
       <h1>Markdown Previewer</h1>
       <Editor value={content} handleChange={handleChange} />
       <Previewer content={content} />

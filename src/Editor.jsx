@@ -1,8 +1,8 @@
 const Editor = ({value, handleChange}) => {
   return (
-    <div id="editor" className="editor-container">
+    <div className="editor-container">
         <h2 className="editor-title">Editor</h2>
-        <textarea id="editor" value={value} onChange={handleChange} cols="30" rows="20"></textarea>
+        <textarea className="editor" value={value} onChange={handleChange}></textarea>
     </div>
   )
 }

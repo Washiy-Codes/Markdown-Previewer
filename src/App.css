@@ -18,7 +18,14 @@ img{
   height: auto;
   display: block;
 }
+.app{
+  text-align: center;
+  padding: 1rem;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
 
+}
 
 h1 {
   font-size: 2.5rem;
@@ -33,36 +40,47 @@ h1 {
   font-weight: bold;
   text-align: left;
 }
-#editor {
+.editor-container{
     background-color: #fff;
     padding: 1rem;
     border-radius: 6px;
     width: 90%;
     max-width: 700px;
-    margin: 2rem auto;
-  }
+    margin: 1rem auto;
+    text-align: left;
 
-textarea {
-    width: 90%;
-    height: 300px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+  }
+.editor{
+   width: 90%;
+  height: 300px;
+  padding: 10px;
+  margin: 20px auto;
+  display: block;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  resize: vertical; 
+  white-space: pre-wrap; 
+  line-height: 1.5;
+  }
+.previewer-title, .editor-title{
+    background-color: #61dacb;
+    color: #1b1a1a;
     padding: 0.5rem;
-    font-size: 1rem;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    resize: vertical;
-  }
-
+    margin: 0;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    text-align: left;
+}
 .previewer-container {
     background-color: #fff;
     padding: 1rem;
     border-radius: 6px;
     width: 90%;
     max-width: 900px;
-    margin: 0 auto;
+    margin: 2rem auto;
     text-align: left;
     background-color: #fff;
-    width: 90%;
   }
     #preview {
       margin: auto;
