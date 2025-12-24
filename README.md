@@ -4,6 +4,12 @@ A minimal and responsive **Markdown Previewer** built with **React** and **Vite*
 Type Markdown on one side and instantly preview the formatted output on the other — fast, smooth, and beginner-friendly.
 
 ---
+## 📸 App Screenshot
+
+![Markdown Previewer App](https://shots.codepen.io/username/pen/GrZVVO-800.jpg?version=1623429840)
+
+---
+
 
 ## 🚀 Live Demo
 🔗 [View Live on GitHub Pages]( https://washiy-codes.github.io/Markdown-Previewer/)
