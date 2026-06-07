@@ -12,19 +12,19 @@ Type Markdown on one side and instantly preview the formatted output on the othe
 
 
 ## Live Demo
-🔗 [View Live on GitHub Pages]( https://washiy-codes.github.io/Markdown-Previewer/)
+[View Live on GitHub Pages]( https://washiy-codes.github.io/Markdown-Previewer/)
 
 ---
 
-## ⚙️ Built With
-- ⚛️ **React** – Frontend library for building the UI  
-- ⚡ **Vite** – Lightning-fast development and build tool  
-- 🧾 **React Markdown** – Converts Markdown text to formatted HTML  
-- ✍️ **Remark GFM** – Supports GitHub-flavored Markdown (tables, checkboxes, links, etc.)
+## Built With
+-  **React** – Frontend library for building the UI  
+-  **Vite** – Lightning-fast development and build tool  
+-  **React Markdown** – Converts Markdown text to formatted HTML  
+-  **Remark GFM** – Supports GitHub-flavored Markdown (tables, checkboxes, links, etc.)
 
 ---
 
-## 🧠 Features
+##  Features
 - Live Markdown editing and preview  
 - Clean and responsive layout  
 - Supports GitHub-flavored Markdown  
